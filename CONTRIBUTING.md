@@ -1,4 +1,4 @@
-Thank you for willing to contribute on this project.
+Thank you for willing to contribute on this project. we are grateful to you.
 
 ## Reporting issues
 
